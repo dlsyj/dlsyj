@@ -7,4 +7,4 @@
 * 📚   Reading more about history, investment and how the computer works.
 * 💻   With 5 years' development working experience in the US.
 * ⛵   Encouraging people for open source collaborations.
-* 📫   How to reach me 🤔, https://dlsyj.github.io/images/email_pic.png
+* 📫   How to reach me 🤔, ![](https://dlsyj.github.io/images/email_pic.png) 
